@@ -6,8 +6,10 @@ no tracking, and exports a plain-text draft directly in the browser.
 
 ## Use it
 
-Open the live tool at
-[Freelancer-Angebots-Generator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebots-generator.html).
+Open the standalone live tool at
+[Freelancer-Angebots-Generator](https://n5rjgsqj5g-cmd.github.io/freelancer-offer-generator/).
+
+It is also included in the [SERS Practical Kits collection](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebots-generator.html).
 
 Or download this repository and open `index.html` locally.
 
